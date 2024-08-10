@@ -2,7 +2,7 @@ import SneakerAccounting from '../components/SneakerAccounting';
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div className="min-h-screen bg-gray-300">
       <SneakerAccounting />
     </div>
   );
