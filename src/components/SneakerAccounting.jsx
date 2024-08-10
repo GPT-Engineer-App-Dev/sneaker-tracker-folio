@@ -58,7 +58,7 @@ const SneakerAccounting = () => {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-6">Sneaker Side-Hustle Accounting</h1>
+      <h1 className="text-3xl font-bold mb-6">My Super App for Sneakers!</h1>
       
       <form onSubmit={handleSubmit} className="mb-8 space-y-4">
         <Input
